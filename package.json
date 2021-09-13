@@ -1,7 +1,7 @@
 {
-  "name": "@videojs/http-streaming",
+  "name": "@jontsnz/http-streaming",
   "version": "2.10.3",
-  "description": "Play back HLS and DASH with Video.js, even where it's not natively supported",
+  "description": "Play back HLS and DASH with Video.js, even where it's not natively supported. Handles for large media sequence gaps.",
   "main": "dist/videojs-http-streaming.cjs.js",
   "module": "dist/videojs-http-streaming.es.js",
   "repository": {
